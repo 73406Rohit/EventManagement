@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="crudoperationdemo"/>
+<aop-project name="crudOperations"/>
+<aop-project name="EventManagementSystem"/>
+</aop-reference-model>
